@@ -14,7 +14,8 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+<img height="30" width="40" src="https://img.icons8.com/external-prettycons-lineal-prettycons/49/000000/external-sharp-web-and-seo-prettycons-lineal-prettycons.png"/>
+<img  height="30" width="40" src="https://img.icons8.com/external-ddara-fill-ddara/64/000000/external-api-fintech-ddara-fill-ddara.png"/>
 </div>
   
   ##
